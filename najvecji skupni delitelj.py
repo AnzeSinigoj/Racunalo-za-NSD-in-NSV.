@@ -4,7 +4,7 @@ st1 = int(input("Napiši številko: "))
 st2 = int(input("Napiši drugo številko: "))
 
 def racunanje():
-    gdc_oz_lcm = input("Napiši 1 za največji skupni deletielj ali pritisni 2 za najmanjši skupni večkratnik. (Ali 3 za izhod): ")
+    gdc_oz_lcm = input("Napiši 1 za največji skupni delitelj ali pritisni 2 za najmanjši skupni večkratnik. (Ali 3 za izhod): ")
 
     if gdc_oz_lcm == "1":
         skupni_delitelj = math.gcd(st1,st2)
