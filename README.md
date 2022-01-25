@@ -11,8 +11,6 @@ Računalo, ki pomaga računanju največjega skupnega deletielja ter najmanjšega
 1. Najprej zaženite zahtevano.bat ali uporabite komande: 
 ```
 pip install numpy
-pip install math
-pip install time
 ```
 2. Nato pa zaženite **najvecji skupni delitelj.py**
 
