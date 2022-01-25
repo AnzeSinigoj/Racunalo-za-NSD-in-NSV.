@@ -17,4 +17,4 @@ pip install time
 2. Nato pa zaženite **najvecji skupni delitelj.py**
 
 
-![Jezik programa!](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdetechter.com%2Fwp-content%2Fuploads%2F2013%2F08%2Fpython.png&f=1&nofb=1)
+![Jezik programa!](https://media.discordapp.net/attachments/760908192280215595/935602209582878770/external-content.duckduckgo.com.png)
