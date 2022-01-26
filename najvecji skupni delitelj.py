@@ -16,7 +16,9 @@ def racunanje():
         racunanje()
     elif gdc_oz_lcm == "3":
         print("Izhod v 3 sekundah!")
-        time.sleep(3)
+        for sec in range(3, 0,-1):
+            print("Izhod v: ",sec,"sekundah")
+            time.sleep(1)
         exit()
     else:
         while len(gdc_oz_lcm) == 0:
@@ -25,6 +27,12 @@ def racunanje():
        
     
 racunanje()
+
+
+
+
+
+
 
 
 
